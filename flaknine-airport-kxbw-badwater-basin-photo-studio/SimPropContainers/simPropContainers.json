@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "guid": "{3C8E5A6A-E4C0-4932-922A-4E945F8CEA52}",
+      "descr": "studio underlights",
+      "path": "SimPropContainers\\SimPropContainers\\studio underlights.spb"
+    },
+    {
+      "guid": "{A56B8FF4-81F4-407D-A9CC-5093E17CBFE5}",
+      "descr": "Studio WhiteLights",
+      "path": "SimPropContainers\\SimPropContainers\\Studio WhiteLights.spb"
+    },
+    {
+      "guid": "{D90387B5-7DD0-4280-BBEA-6D7AECC59301}",
+      "descr": "StudioRedBlue",
+      "path": "SimPropContainers\\SimPropContainers\\StudioRedBlue.spb"
+    }
+  ]
+}

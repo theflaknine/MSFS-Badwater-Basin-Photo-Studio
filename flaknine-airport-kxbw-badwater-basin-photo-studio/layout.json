@@ -1,0 +1,134 @@
+{
+  "content": [
+    {
+      "path": "airportservices/airport-kxbw-badwater-basin-photo-studio/kxbw-services/services.spb",
+      "size": 993,
+      "date": 134031465600000001
+    },
+    {
+      "path": "bglindex.bout",
+      "size": 1138,
+      "date": 134032148970031417
+    },
+    {
+      "path": "contentinfo/flaknine-airport-kxbw-badwater-basin-photo-studio/contenthistory.json",
+      "size": 173,
+      "date": 134032148970000000
+    },
+    {
+      "path": "contentinfo/flaknine-airport-kxbw-badwater-basin-photo-studio/thumbnail.jpg",
+      "size": 5446,
+      "date": 134002765610000000
+    },
+    {
+      "path": "materiallibs/kxbw-materials/library.xml",
+      "size": 7214,
+      "date": 134031720870000004
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/metal028_4k_color.png.ktx2",
+      "size": 11185464,
+      "date": 134031457220000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/metal028_4k_color.png.ktx2.flags",
+      "size": 27,
+      "date": 134031457220000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/metal028_4k_color.png.ktx2.json",
+      "size": 207,
+      "date": 134031457220000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/metal028_4k_roughness.png.ktx2",
+      "size": 11185448,
+      "date": 134031422010000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/metal028_4k_roughness.png.ktx2.json",
+      "size": 134,
+      "date": 134031422010000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/metal028_4k_roughnessnormal.png.ktx2",
+      "size": 11185448,
+      "date": 134031457050000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/metal028_4k_roughnessnormal.png.ktx2.json",
+      "size": 134,
+      "date": 134031457050000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/painted_concrete_02_diff_8k.png.ktx2",
+      "size": 44739928,
+      "date": 134031717780000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/painted_concrete_02_diff_8k.png.ktx2.flags",
+      "size": 27,
+      "date": 134031717780000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/painted_concrete_02_diff_8k.png.ktx2.json",
+      "size": 207,
+      "date": 134031717780000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/painted_concrete_02_nrm-rough_8k.tif.ktx2",
+      "size": 89479168,
+      "date": 134031714160000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/painted_concrete_02_nrm-rough_8k.tif.ktx2.json",
+      "size": 151,
+      "date": 134031714160000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/painted_concrete_black_diff_8k.png.ktx2",
+      "size": 44739928,
+      "date": 134031720810000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/painted_concrete_black_diff_8k.png.ktx2.flags",
+      "size": 27,
+      "date": 134031720810000006
+    },
+    {
+      "path": "materiallibs/kxbw-materials/textures/painted_concrete_black_diff_8k.png.ktx2.json",
+      "size": 207,
+      "date": 134031720810000006
+    },
+    {
+      "path": "scenery/airport-kxbw-badwater-basin-photo-studio/kxbw-modellib/kxbw-modellib.bgl",
+      "size": 13140,
+      "date": 134030453420000006
+    },
+    {
+      "path": "scenery/airport-kxbw-badwater-basin-photo-studio/scenery/kxbw.bgl",
+      "size": 4084,
+      "date": 134032148970000006
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers.json",
+      "size": 560,
+      "date": 134032141130000001
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers/studio underlights.spb",
+      "size": 1519,
+      "date": 134032141130000001
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers/studio whitelights.spb",
+      "size": 5234,
+      "date": 134032141130000001
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers/studioredblue.spb",
+      "size": 3020,
+      "date": 134032141130000001
+    }
+  ]
+}

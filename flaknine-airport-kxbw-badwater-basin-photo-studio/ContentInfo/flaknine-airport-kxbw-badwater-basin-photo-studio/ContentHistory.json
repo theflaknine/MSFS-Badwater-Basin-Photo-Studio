@@ -1,0 +1,10 @@
+{
+  "package-name": "flaknine-airport-kxbw-badwater-basin-photo-studio",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "KXBW",
+      "revision": 1
+    }
+  ]
+}

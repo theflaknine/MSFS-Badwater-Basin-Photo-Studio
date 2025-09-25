@@ -1,0 +1,20 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "Badwater Basin KXBW",
+  "manufacturer": "",
+  "creator": "FlakNine",
+  "package_version": "0.1.0",
+  "minimum_game_version": "1.5.27",
+  "minimum_compatibility_version": "5.27.0.112",
+  "export_type": "Community",
+  "builder": "Microsoft Flight Simulator 2024",
+  "package_order_hint": "CUSTOM_AIRPORT",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "212559026"
+}
