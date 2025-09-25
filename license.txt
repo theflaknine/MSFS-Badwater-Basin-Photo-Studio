@@ -1,0 +1,27 @@
+Badwater Studio Photo Studio Scenery License
+============================
+
+Author: theflaknine
+Contact: theflaknine@gmail.com
+
+Summary
+--------
+- ✅ Free for personal, hobbyist, and non-commercial use.  
+- ❌ Commercial use is not allowed without a separate license from the Author.  
+- ℹ️ For commercial licensing, contact theflaknine@gmail.com
+
+License Terms
+--------------
+1. Permission is granted to download, install, and use this scenery in Microsoft Flight Simulator for non-commercial purposes at no cost.  
+2. "Non-commercial" means personal enjoyment, hobbyist screenshots/videos, and community sharing where no money or other value is exchanged.  
+3. "Commercial use" includes, but is not limited to:  
+   - Using screenshots or videos taken in this scenery to promote, advertise, or sell aircraft, liveries, or other add-ons.  
+   - Using the scenery (in whole or in part) within a paid product.  
+   - Using screenshots, streams, or videos in monetized media, promotional trailers, or professional work.  
+4. Commercial use requires a separate license agreement with the Author. Contact theflaknine@gmail.com to arrange this.  
+5. Redistribution of this scenery in any form (modified or unmodified) is **not permitted**.
+6. You may not claim this scenery as your own work.  
+
+Acceptance
+-----------
+By downloading, installing, or using this scenery, you agree to these terms.
