@@ -9,7 +9,10 @@ A custom **photo studio environment for Microsoft Flight Simulator 2024**, for t
 
 ## 📸 Features
 - Six different neutral and dramatic lighting arrangements for different moods
+- Lighting setups have been painstakingly tested on a variety of aircraft
 - Two different sizes of studio to accommodate different aircraft sizes
+- 8k custom material for studio floors, with PBR texture images
+
 
 ---
 
