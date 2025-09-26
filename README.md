@@ -33,7 +33,7 @@ See the full license terms in [LICENSE](./LICENSE).
 5.  **IMPORTANT: ensure your sim time of day is set to NIGHT (dark) otherwise the studio lighting will not work**
 6.  Choose a parking spot at KXBW - note the labels describe the lighting at each parking spot
 7.  Start your free flight
-8.  Switch to an exterior view and take some amazing screenshots!
+8.  Switch to an exterior view and take some amazing screenshots! Tip: use the Slew Mode camera in MSFS Developer Mode, to move your aircraft.
 
 ---
 
