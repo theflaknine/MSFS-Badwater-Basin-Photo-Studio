@@ -1,2 +1,66 @@
-# msfs-badwater-studio
-MSFS 2024 Badwater Photo Studio Scenery
+# ✈️ MSFS Photo Studio Scenery
+
+![License: Free for Non-Commercial Use](https://img.shields.io/badge/License-Free%20for%20Non--Commercial%20Use-green)
+![Commercial License Required](https://img.shields.io/badge/Commercial%20Use-License%20Required-red)
+
+A custom **photo studio environment for Microsoft Flight Simulator 2024**.  
+Designed to offer a studio environment for taking aircraft screenshots.
+
+---
+
+## 📸 Features
+- Neutral and dramatic lighting arrangements for different moods
+- Two different sizes of studio to accommodate different aircraft sizes
+
+---
+
+## 📜 License Summary
+> ✅ **Free for hobbyist / non-commercial use**  
+> ❌ **Commercial use requires a license**  
+> For commercial licensing, contact: theflaknine@gmail.com
+
+See the full license terms in [LICENSE](./LICENSE).  
+
+---
+
+## 📥 Download & Installation
+1. Download the latest release from the [Releases page](../../releases).  
+2. Extract the folder into your MSFS `Community` directory.  
+3. Launch Microsoft Flight Simulator
+4. From free flight, search for Badwater Basin Photo Studio - ICAO is KWBW
+5.  **IMPORTANT: ensure your sim time of day is set to NIGHT (dark) otherwise the studio lighting will not work**
+6.  Choose a parking spot at KXBW - note the labels describe the lighting at each parking spot
+7.  Start your free flight
+
+---
+
+## ❓ FAQ
+
+**Q: Does this work in MSFS 2020?**  
+A: No it is for MSFS 2024 only. I do not intend to make an MSFS 2020 version since I've stopped using it. 
+
+**Q: Can I share this scenery with my friends?**  
+A: No. Redistribution in any form is not allowed. Please direct others to this GitHub page to download the official version.  
+
+**Q: Can I use screenshots or videos from this scenery on social media?**  
+A: Yes — as long as it’s for hobbyist, non-commercial use (e.g. sharing on forums, Discord, YouTube without monetization).  
+
+**Q: I make aircraft or liveries for sale. Can I use this scenery to take promotional screenshots?**  
+A: Only if you arrange a commercial license. Please contact theflaknine@gmail.com to do this.  
+
+**Q: How do I get updates?**  
+A: Check the [Releases page](../../releases) for the latest version.  
+
+---
+
+## 🤝 Contributing
+Suggestions and feedback are very welcome — if you have ideas for new lighting arrangements, please open an Issue or get in touch via Discord.
+---
+
+## 📧 Contact
+- Author: theflaknine 
+- Email: theflaknine@gmail.com
+- Discord username: flaknine
+
+
+---
