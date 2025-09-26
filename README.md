@@ -75,6 +75,9 @@ A: Check the [Releases page](../../releases) for the latest version.
 **Q: Why is this on GitHub instead of the usual popular MSFS add-on sharing sites?**  
 A: I want to remain in full control of the Terms of Use and Licensing of this add-on, so I prefer to host it here.
 
+**Q: Can I used this scenery as a real airport?**  
+A: This is just a dummy airport to provide parking spots for the studio, it isn't intended to be operational. Technically, it's got a tiny runway, so you can try if you really want 😅!
+
 **Q: Can you add some light / white background studios?**  
 A: This is next on my list - watch for updates here!
 
