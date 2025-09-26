@@ -37,6 +37,24 @@ See the full license terms in [LICENSE](./LICENSE).
 
 ---
 
+## 🖼️ Screenshots
+
+![Image](https://github.com/user-attachments/assets/5064df93-f550-403b-91f1-eb5279950845)
+
+![Image](https://github.com/user-attachments/assets/69fb8f75-39ee-45a0-8463-a9a32b2429c2)
+
+![Image](https://github.com/user-attachments/assets/a53437c4-ec47-4f5e-b8d2-07e377f2dc01)
+
+![Image](https://github.com/user-attachments/assets/6288b5c0-d459-44bd-9f2c-bbea42f502a6)
+
+![Image](https://github.com/user-attachments/assets/d22cf0c2-9cae-423c-a873-f13c4943bb78)
+
+![Image](https://github.com/user-attachments/assets/efcacff5-7aac-4fac-a94d-9afe988c9e6e)
+
+![Image](https://github.com/user-attachments/assets/aa6fc31c-e46e-4a13-bab9-928a8f4d3914)
+
+---
+
 ## ❓ FAQ
 
 **Q: Does this work in MSFS 2020?**  
