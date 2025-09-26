@@ -1,22 +1,22 @@
 {
   "content": [
     {
-      "path": "airportservices/airport-kxbw-badwater-basin-photo-studio/kxbw-services/services.spb",
+      "path": "airportservices/airport-kxbw-badwater-studio/kxbw-services/services.spb",
       "size": 993,
       "date": 134031465600000001
     },
     {
       "path": "bglindex.bout",
-      "size": 1138,
-      "date": 134032148970031417
+      "size": 1114,
+      "date": 134033479070031417
     },
     {
       "path": "contentinfo/flaknine-airport-kxbw-badwater-basin-photo-studio/contenthistory.json",
       "size": 173,
-      "date": 134032148970000000
+      "date": 134033479070000000
     },
     {
-      "path": "contentinfo/flaknine-airport-kxbw-badwater-basin-photo-studio/thumbnail.jpg",
+      "path": "contentinfo/flaknine-airport-kxbw-badwater-studio/thumbnail.jpg",
       "size": 5446,
       "date": 134002765610000000
     },
@@ -101,34 +101,84 @@
       "date": 134031720810000006
     },
     {
-      "path": "scenery/airport-kxbw-badwater-basin-photo-studio/kxbw-modellib/kxbw-modellib.bgl",
+      "path": "scenery/airport-kxbw-badwater-studio/kxbw-modellib/kxbw-modellib.bgl",
       "size": 13140,
       "date": 134030453420000006
     },
     {
-      "path": "scenery/airport-kxbw-badwater-basin-photo-studio/scenery/kxbw.bgl",
-      "size": 4084,
-      "date": 134032148970000006
+      "path": "scenery/airport-kxbw-badwater-studio/scenery/kxbw.bgl",
+      "size": 6192,
+      "date": 134033479070000006
     },
     {
       "path": "simpropcontainers/simpropcontainers.json",
-      "size": 560,
-      "date": 134032141130000001
+      "size": 2405,
+      "date": 134033478800000001
     },
     {
-      "path": "simpropcontainers/simpropcontainers/studio underlights.spb",
-      "size": 1519,
-      "date": 134032141130000001
+      "path": "simpropcontainers/simpropcontainers/red underlit large.spb",
+      "size": 4786,
+      "date": 134033478800000001
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers/red underlit.spb",
+      "size": 2976,
+      "date": 134033478800000001
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers/studio gold backlit large.spb",
+      "size": 2829,
+      "date": 134033478800000001
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers/studio gold backlit.spb",
+      "size": 1520,
+      "date": 134033478800000001
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers/studio structure.spb",
+      "size": 772,
+      "date": 134033478800000001
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers/studio whitelights large.spb",
+      "size": 9864,
+      "date": 134033478800000001
     },
     {
       "path": "simpropcontainers/simpropcontainers/studio whitelights.spb",
       "size": 5234,
-      "date": 134032141130000001
+      "date": 134033478800000001
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers/studio3point large.spb",
+      "size": 2071,
+      "date": 134033478800000001
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers/studio3point.spb",
+      "size": 2011,
+      "date": 134033478800000001
     },
     {
       "path": "simpropcontainers/simpropcontainers/studioredblue.spb",
       "size": 3020,
-      "date": 134032141130000001
+      "date": 134033478800000001
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers/studioredbluelarge.spb",
+      "size": 4766,
+      "date": 134033478800000001
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers/studiowhiteoverhead large.spb",
+      "size": 3926,
+      "date": 134033478800000001
+    },
+    {
+      "path": "simpropcontainers/simpropcontainers/studiowhiteoverhead.spb",
+      "size": 3347,
+      "date": 134033478800000001
     }
   ]
 }
