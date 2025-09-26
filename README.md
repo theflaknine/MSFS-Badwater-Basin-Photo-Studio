@@ -8,7 +8,7 @@ A custom **photo studio environment for Microsoft Flight Simulator 2024**, for f
 ---
 
 ## 📸 Features
-- Neutral and dramatic lighting arrangements for different moods
+- Six different neutral and dramatic lighting arrangements for different moods
 - Two different sizes of studio to accommodate different aircraft sizes
 
 ---
@@ -26,10 +26,11 @@ See the full license terms in [LICENSE](./LICENSE).
 1. Download the latest release from the [Releases page](../../releases).  
 2. Extract the folder into your MSFS `Community` directory.  
 3. Launch Microsoft Flight Simulator
-4. From free flight, search for Badwater Basin Photo Studio - ICAO is KWBW
+4. From Free Flight, search for Badwater Basin Photo Studio - the ICAO is KXBW
 5.  **IMPORTANT: ensure your sim time of day is set to NIGHT (dark) otherwise the studio lighting will not work**
 6.  Choose a parking spot at KXBW - note the labels describe the lighting at each parking spot
 7.  Start your free flight
+8.  Switch to an exterior view and take some amazing screenshots!
 
 ---
 
