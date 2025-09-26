@@ -54,7 +54,9 @@ A: Check the [Releases page](../../releases) for the latest version.
 ---
 
 ## 🤝 Contributing
+
 Suggestions and feedback are very welcome — if you have ideas for new lighting arrangements, please open an Issue or get in touch via Discord.
+
 ---
 
 ## 📧 Contact
