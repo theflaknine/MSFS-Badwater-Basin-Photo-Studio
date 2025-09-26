@@ -3,7 +3,7 @@
 ![License: Free for Non-Commercial Use](https://img.shields.io/badge/License-Free%20for%20Non--Commercial%20Use-green)
 ![Commercial License Required](https://img.shields.io/badge/Commercial%20Use-License%20Required-red)
 
-A custom **photo studio environment for Microsoft Flight Simulator 2024**, for for taking aircraft screenshots.
+A custom **photo studio environment for Microsoft Flight Simulator 2024**, for taking aircraft screenshots.
 
 ---
 
