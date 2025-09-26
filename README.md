@@ -51,6 +51,9 @@ A: Only if you arrange a commercial license. Please contact theflaknine@gmail.co
 **Q: How do I get updates?**  
 A: Check the [Releases page](../../releases) for the latest version.  
 
+**Q: Why is this on GitHub instead of the usual popular MSFS add-on sharing sites?**
+A: I want to remain in full control of the Terms of Use and Licensing of this add-on, so I prefer to host it here.
+
 ---
 
 ## 🤝 Contributing
