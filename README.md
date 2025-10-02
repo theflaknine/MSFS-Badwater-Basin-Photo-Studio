@@ -1,4 +1,4 @@
-# ✈️ MSFS Photo Studio Scenery
+# ✈️ MSFS Badwater Basin Photo Studio Scenery
 
 ![License: Free for Non-Commercial Use](https://img.shields.io/badge/License-Free%20for%20Non--Commercial%20Use-green)
 ![Commercial License Required](https://img.shields.io/badge/Commercial%20Use-License%20Required-red)
@@ -33,7 +33,25 @@ See the full license terms in [LICENSE](./LICENSE).
 5.  **IMPORTANT: ensure your sim time of day is set to NIGHT (dark) otherwise the studio lighting will not work**
 6.  Choose a parking spot at KXBW - note the labels describe the lighting at each parking spot
 7.  Start your free flight
-8.  Switch to an exterior view and take some amazing screenshots!
+8.  Switch to an exterior view and take some amazing screenshots! Tip: use the Slew Mode camera in MSFS Developer Mode, to move your aircraft.
+
+---
+
+## 🖼️ Screenshots
+
+![Image](https://github.com/user-attachments/assets/5064df93-f550-403b-91f1-eb5279950845)
+
+![Image](https://github.com/user-attachments/assets/69fb8f75-39ee-45a0-8463-a9a32b2429c2)
+
+![Image](https://github.com/user-attachments/assets/a53437c4-ec47-4f5e-b8d2-07e377f2dc01)
+
+![Image](https://github.com/user-attachments/assets/6288b5c0-d459-44bd-9f2c-bbea42f502a6)
+
+![Image](https://github.com/user-attachments/assets/d22cf0c2-9cae-423c-a873-f13c4943bb78)
+
+![Image](https://github.com/user-attachments/assets/efcacff5-7aac-4fac-a94d-9afe988c9e6e)
+
+![Image](https://github.com/user-attachments/assets/aa6fc31c-e46e-4a13-bab9-928a8f4d3914)
 
 ---
 
@@ -56,6 +74,9 @@ A: Check the [Releases page](../../releases) for the latest version.
 
 **Q: Why is this on GitHub instead of the usual popular MSFS add-on sharing sites?**  
 A: I want to remain in full control of the Terms of Use and Licensing of this add-on, so I prefer to host it here.
+
+**Q: Can I use this scenery as a real airport?**  
+A: This is just a dummy airport to provide parking spots for the studio, it isn't intended to be operational. Technically, it's got a tiny runway, so you can try if you really want 😅!
 
 **Q: Can you add some light / white background studios?**  
 A: This is next on my list - watch for updates here!
