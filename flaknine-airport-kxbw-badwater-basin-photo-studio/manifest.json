@@ -4,7 +4,7 @@
   "title": "Badwater Basin KXBW",
   "manufacturer": "",
   "creator": "FlakNine",
-  "package_version": "1.0.2",
+  "package_version": "1.1.0",
   "minimum_game_version": "1.5.27",
   "minimum_compatibility_version": "5.27.0.112",
   "export_type": "Community",
@@ -16,5 +16,5 @@
       "OlderHistory": ""
     }
   },
-  "total_package_size": "212600304"
+  "total_package_size": "179215719"
 }

@@ -44,102 +44,12 @@
 			</ExtraParameters>
 		</Attributes>
 	</Material>
-	<Material Version="1.5.0" Name="Studio Floor" Guid="{BE27056D-E787-4DEF-9F4B-72977549EF18}" Context="Ground surface" SurfaceType="BITUMINOUS" Type="CODE_DIFFUSE" Metal="0.000000" Rough="1.000000" Opacity="1.000000" BlendMode="Alpha Blend">
-		<TagList/>
-		<FlagList/>
-		<TextureList>
-			<Texture FileName="TEXTURES\METAL028_4K_COLOR.PNG.ktx2" Binding="MTL_BITMAP_DECAL0"/>
-			<Texture FileName="TEXTURES\METAL028_4K_ROUGHNESS.PNG.ktx2" Binding="MTL_BITMAP_NORMAL_ROUGH_METAL"/>
-		</TextureList>
-		<Attributes>
-			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
-			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
-			<UVScale U="1.000000" V="1.000000"/>
-			<UVRotate>0.000000</UVRotate>
-			<TwoSided>TRUE</TwoSided>
-			<FlipBackface>FALSE</FlipBackface>
-			<NoCastShadow>FALSE</NoCastShadow>
-			<SurfaceTypeOnTransparent>FALSE</SurfaceTypeOnTransparent>
-			<Labels/>
-			<ExtraParameters>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.100000"/>
-				<Parameter Value="20.000000"/>
-				<Parameter Value="1.000000"/>
-				<Parameter Value="0.240000"/>
-				<Parameter Value="1.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="1.000000"/>
-				<Parameter Value="1.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="1.000000"/>
-				<Parameter Value="1.000000"/>
-				<Parameter Value="20.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-			</ExtraParameters>
-		</Attributes>
-	</Material>
 	<Material Version="1.5.0" Name="Dark Painted Concrete" Guid="{34BC0959-8DFD-4FBF-BFFB-845C66DCA502}" Context="Ground surface" SurfaceType="ASPHALT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="1.000000" Opacity="1.000000" BlendMode="Alpha Blend">
 		<TagList/>
 		<FlagList/>
 		<TextureList>
 			<Texture FileName="TEXTURES\PAINTED_CONCRETE_02_DIFF_8K.PNG.ktx2" Binding="MTL_BITMAP_DECAL0"/>
 			<Texture FileName="TEXTURES\PAINTED_CONCRETE_02_NRM-ROUGH_8K.TIF.ktx2" Binding="MTL_BITMAP_NORMAL_ROUGH_METAL"/>
-		</TextureList>
-		<Attributes>
-			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
-			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
-			<UVScale U="1.000000" V="1.000000"/>
-			<UVRotate>0.000000</UVRotate>
-			<TwoSided>TRUE</TwoSided>
-			<FlipBackface>FALSE</FlipBackface>
-			<NoCastShadow>FALSE</NoCastShadow>
-			<SurfaceTypeOnTransparent>FALSE</SurfaceTypeOnTransparent>
-			<Labels/>
-			<ExtraParameters>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.100000"/>
-				<Parameter Value="20.000000"/>
-				<Parameter Value="1.000000"/>
-				<Parameter Value="0.240000"/>
-				<Parameter Value="1.000000"/>
-				<Parameter Value="1.000000"/>
-				<Parameter Value="1.000000"/>
-				<Parameter Value="1.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="1.000000"/>
-				<Parameter Value="1.000000"/>
-				<Parameter Value="20.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-				<Parameter Value="0.000000"/>
-			</ExtraParameters>
-		</Attributes>
-	</Material>
-	<Material Version="1.5.0" Name="Metal-Floor" Guid="{2C12D030-558F-40FD-941E-41A66EB648A3}" Context="Ground surface" SurfaceType="BITUMINOUS" Type="CODE_DIFFUSE" Metal="0.000000" Rough="1.000000" Opacity="1.000000" BlendMode="Alpha Blend">
-		<TagList/>
-		<FlagList/>
-		<TextureList>
-			<Texture FileName="TEXTURES\METAL028_4K_COLOR.PNG.ktx2" Binding="MTL_BITMAP_DECAL0"/>
-			<Texture FileName="TEXTURES\METAL028_4K_ROUGHNESSNORMAL.PNG.ktx2" Binding="MTL_BITMAP_NORMAL_ROUGH_METAL"/>
 		</TextureList>
 		<Attributes>
 			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>

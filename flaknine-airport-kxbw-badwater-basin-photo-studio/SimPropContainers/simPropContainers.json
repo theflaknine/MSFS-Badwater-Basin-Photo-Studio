@@ -1,6 +1,16 @@
 {
   "content": [
     {
+      "guid": "{051A80CD-60C1-47F5-8B01-44B3A3755AC8}",
+      "descr": "Green Underlit Large",
+      "path": "SimPropContainers\\SimPropContainers\\Green Underlit Large.spb"
+    },
+    {
+      "guid": "{3AA9514B-66CE-455A-8F08-22866C8EC210}",
+      "descr": "Green Underlit",
+      "path": "SimPropContainers\\SimPropContainers\\Green Underlit.spb"
+    },
+    {
       "guid": "{1B4ECFCD-28F6-42FB-9081-7DC9349B73DB}",
       "descr": "Red Underlit Large",
       "path": "SimPropContainers\\SimPropContainers\\Red Underlit Large.spb"
@@ -11,6 +21,16 @@
       "path": "SimPropContainers\\SimPropContainers\\Red Underlit.spb"
     },
     {
+      "guid": "{135EAEB2-2C73-4C1F-8FF5-8B553D5352DB}",
+      "descr": "studio bright white side large",
+      "path": "SimPropContainers\\SimPropContainers\\studio bright white side large.spb"
+    },
+    {
+      "guid": "{9BB8DEE7-905E-4DC5-B3F4-C81627E5BE5D}",
+      "descr": "studio bright white side",
+      "path": "SimPropContainers\\SimPropContainers\\studio bright white side.spb"
+    },
+    {
       "guid": "{BCC5F6E6-B0F8-4B17-934C-4FBD14C615FA}",
       "descr": "studio gold backlit large",
       "path": "SimPropContainers\\SimPropContainers\\studio gold backlit large.spb"
@@ -19,6 +39,16 @@
       "guid": "{3C8E5A6A-E4C0-4932-922A-4E945F8CEA52}",
       "descr": "studio underlights",
       "path": "SimPropContainers\\SimPropContainers\\studio gold backlit.spb"
+    },
+    {
+      "guid": "{54BFD2C2-B517-4A2F-B058-A6DA4C8747E3}",
+      "descr": "studio spot row backlight large",
+      "path": "SimPropContainers\\SimPropContainers\\studio spot row backlight large.spb"
+    },
+    {
+      "guid": "{7A05D906-56D5-4774-9F24-028B438F30B6}",
+      "descr": "studio spot row backlight",
+      "path": "SimPropContainers\\SimPropContainers\\studio spot row backlight.spb"
     },
     {
       "guid": "{93D1C447-BDE9-4795-9372-8C91922E22DC}",
@@ -34,6 +64,11 @@
       "guid": "{A56B8FF4-81F4-407D-A9CC-5093E17CBFE5}",
       "descr": "Studio WhiteLights",
       "path": "SimPropContainers\\SimPropContainers\\Studio WhiteLights.spb"
+    },
+    {
+      "guid": "{27001BE2-B0C3-4860-80CB-A9F893C882A9}",
+      "descr": "studio-daylight",
+      "path": "SimPropContainers\\SimPropContainers\\studio-daylight.spb"
     },
     {
       "guid": "{B1B1C191-5705-4C8A-B6B1-E3B544F9102C}",
