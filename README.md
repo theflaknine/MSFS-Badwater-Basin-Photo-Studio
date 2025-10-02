@@ -53,6 +53,8 @@ See the full license terms in [LICENSE](./LICENSE).
 
 ![Image](https://github.com/user-attachments/assets/aa6fc31c-e46e-4a13-bab9-928a8f4d3914)
 
+![Image](https://github.com/user-attachments/assets/78e1ae7e-916f-406b-9dbf-574bde262695)
+
 ---
 
 ## ❓ FAQ
