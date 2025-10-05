@@ -21,7 +21,7 @@ A custom **photo studio environment for Microsoft Flight Simulator 2024**, for t
 > ❌ **Commercial use requires a license**  
 > For commercial licensing, contact: theflaknine@gmail.com
 
-See the full license terms in [LICENSE](./LICENSE).  
+See the full license terms in the LICENSE tab.
 
 ---
 
