@@ -45,6 +45,8 @@ See the full license terms in the LICENSE tab.
 
 ![Image](https://github.com/user-attachments/assets/a53437c4-ec47-4f5e-b8d2-07e377f2dc01)
 
+![Image](https://github.com/user-attachments/assets/5ff9ed94-f2b4-4946-9b6d-1386c8909c9d)
+
 ![Image](https://github.com/user-attachments/assets/6288b5c0-d459-44bd-9f2c-bbea42f502a6)
 
 ![Image](https://github.com/user-attachments/assets/d22cf0c2-9cae-423c-a873-f13c4943bb78)
@@ -53,7 +55,7 @@ See the full license terms in the LICENSE tab.
 
 ![Image](https://github.com/user-attachments/assets/aa6fc31c-e46e-4a13-bab9-928a8f4d3914)
 
-![Image](https://github.com/user-attachments/assets/78e1ae7e-916f-406b-9dbf-574bde262695)
+![Image](https://github.com/user-attachments/assets/4cc9f697-af20-4b99-b140-b239b7133e6c)
 
 ---
 
