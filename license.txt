@@ -8,6 +8,7 @@ Summary
 --------
 - ✅ Free for personal, hobbyist, and non-commercial use.  
 - ✅ Free for monetized social media content where the primary purpose of that content is to showcase this scenery or discuss MSFS in a general context (not promoting another product)
+- ✅ Free for evaluation of potential commercial use.
 - ❌ Commercial use is not allowed without a separate license from the Author.  
 - ℹ️ For commercial licensing, contact theflaknine@gmail.com
 
