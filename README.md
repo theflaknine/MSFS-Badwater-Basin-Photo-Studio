@@ -21,7 +21,7 @@ A custom **photo studio environment for Microsoft Flight Simulator 2024**, for t
 > ✅ **Free for monetized social media use unless promoting another product**  
 > ✅ **Free for evaluation of potential commercial use**  
 > ❌ **Commercial use requires a license**  
-> For commercial licensing: a Single-Project License is available [here](https://buymeacoffee.com/flaknine/e/465188), or contact: theflaknine@gmail.com for other licensing arrangements.
+> For commercial licensing, please contact theflaknine@gmail.com to discuss arrangements.
 
 See the full license terms in the LICENSE tab.
 
