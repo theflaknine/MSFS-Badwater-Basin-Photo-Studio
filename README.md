@@ -8,7 +8,7 @@ A custom **photo studio environment for Microsoft Flight Simulator 2024**, for t
 ---
 
 ## 📸 Features
-- Nine different neutral and dramatic lighting arrangements for different moods
+- Eleven different neutral and dramatic lighting arrangements for different moods
 - Lighting setups have been painstakingly tested on a variety of aircraft
 - Two different sizes of studio to accommodate different aircraft sizes
 - 8k custom material for studio floors, with PBR texture images
@@ -58,6 +58,10 @@ See the full license terms in the LICENSE tab.
 ![Image](https://github.com/user-attachments/assets/aa6fc31c-e46e-4a13-bab9-928a8f4d3914)
 
 ![Image](https://github.com/user-attachments/assets/4cc9f697-af20-4b99-b140-b239b7133e6c)
+
+![Image](https://github.com/user-attachments/assets/627ee4de-4a60-46df-8429-703321ba4b92)
+
+![Image](https://github.com/user-attachments/assets/1f8c68fd-31ae-456c-8dea-2abba4038855)
 
 ---
 
