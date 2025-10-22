@@ -71,6 +71,11 @@
       "path": "SimPropContainers\\SimPropContainers\\studio-daylight.spb"
     },
     {
+      "guid": "{F18AB99C-B479-43F0-8BB5-F61B1273716D}",
+      "descr": "studio-daylightNoShadow",
+      "path": "SimPropContainers\\SimPropContainers\\studio-daylightNoShadow.spb"
+    },
+    {
       "guid": "{B1B1C191-5705-4C8A-B6B1-E3B544F9102C}",
       "descr": "studio3point large",
       "path": "SimPropContainers\\SimPropContainers\\studio3point large.spb"
