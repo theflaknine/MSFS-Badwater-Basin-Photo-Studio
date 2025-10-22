@@ -74,7 +74,7 @@ A: No it is for MSFS 2024 only. I do not intend to make an MSFS 2020 version sin
 A: No. Redistribution in any form is not allowed. Please direct others to this GitHub page to download the official version.  
 
 **Q: Can I use screenshots or videos from this scenery on social media?**  
-A: Yes — as long as it’s for hobbyist, non-commercial use (e.g. sharing on forums, Discord, YouTube without monetization).  
+A: Yes — as long as it’s for hobbyist, non-commercial use (e.g. sharing on forums, Discord, YouTube etc).  
 
 **Q: I make aircraft or liveries for sale. Can I use this scenery to take promotional screenshots?**  
 A: Only if you arrange a commercial license. Please contact theflaknine@gmail.com to do this.  
