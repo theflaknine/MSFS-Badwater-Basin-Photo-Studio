@@ -28,7 +28,7 @@ See the full license terms in the LICENSE tab.
 ---
 
 ## 📥 Download & Installation
-1. Download the latest release from the [Releases page](../../releases).  
+1. Download the latest release from the [Releases page](https://github.com/theflaknine/MSFS-Badwater-Basin-Photo-Studio/releases).  
 2. Extract the folder into your MSFS `Community` directory.  
 3. Launch Microsoft Flight Simulator
 4. From Free Flight, search for Badwater Basin Photo Studio - the ICAO is KXBW
